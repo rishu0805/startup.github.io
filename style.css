@@ -1,0 +1,27 @@
+body{
+    background: url("header.jpg") no-repeat center  fixed;
+    background-size: cover;
+  
+}
+h1{
+    color: white;
+}
+
+.btn{
+    font-weight:700;
+    border-radius: 300px;
+    text-transform:uppercase;
+}
+.btn-primary{
+    background-color: orangered;
+    border-color: orangered;
+}
+.btn-primary:hover{
+    background-color: orange;
+    border-color: orange;
+}
+.hr1{
+    border-color: blueviolet;
+    border-width: 50px;
+    max-width: 100px;
+}
